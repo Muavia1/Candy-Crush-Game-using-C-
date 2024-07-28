@@ -1,0 +1,17 @@
+			Name: Muavia		Score: 120
+			Name: Soban		Score: 20
+			Name: Abdullah		Score: 40
+			Name: Rizwan		Score: 80
+	Name: Muavia	Score: 20
+	Name: jjhh	Score: 10
+	Name: igg	Score: 60
+	Name: kj	Score: 10
+	Name: gjbjt	Score: 40
+	Name: ugj	Score: 60
+	Name: jk	Score: 50
+	Name: dhg	Score: 40
+	Name: uhg	Score: 10
+	Name: gh	Score: 20
+	Name: dj	Score: 10
+	Name: yg	Score: 0
+	Name: Muavia	Score: 90
